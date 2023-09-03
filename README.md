@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maikel Cutiño Fernández</h1>
-<h3 align="center">A passionate fullstack developer from Cuba, living in México</h3>
+<h3 align="center">A passionate fullstack developer from Cuba and living in México</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mkcfernandez](https://github.com/mkcfernandez)
 
