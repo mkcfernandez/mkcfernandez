@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **html, css, angular, javascript, jQuery, C#, Azure, SQLServer, Redes, CCTV, MongoDb**
 
-- 📫 How to reach me **cutino.maikel@outlook.com**
+- 📫 How to reach me **maikel.cutino.fernandez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
