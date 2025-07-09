@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mkcfernandez](https://github.com/mkcfernandez)
 
-- 💬 Ask me about **html, css, angular, javascript, jQuery, C#, Azure, SQLServer, Redes, CCTV, MongoDb**
-
 - 📫 How to reach me **maikel.cutino.fernandez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
